@@ -8,7 +8,7 @@
 
 <!-- Particle effect (simple background-like) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg" alt="particles" />
+  <img src="[https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg](https://i.pinimg.com/originals/ff/36/07/ff360755f2e909116ab4e2686befd58d.gif)" alt="particles" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-### 🌍 Climate Change Message
+### 🌍 Save Our Planet
 
 > **"The greatest threat to our planet is the belief that someone else will save it."**  
 > — Robert Swan
