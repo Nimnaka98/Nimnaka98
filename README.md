@@ -1,19 +1,22 @@
-<!-- GitHub README: Nimnaka Kumaradasa -->
+<!-- GitHub README: H. K. Nimnaka Yasith Ravishan Kumaradasa -->
 
-<h2 align="center">Hi there, I'm Nimnaka Kumaradasa 👋</h2>
+<h2 align="center">Hi there, I'm Nimnaka Kumaradasa 🌿</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Web+Designer+%7C+Environmental+Activist;Software+Engineer+%7C+Cybersecurity+Advocate+%7C+Recruitment+Support;Creative+Mind+with+a+Love+for+Nature+and+Technology" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌱 Who Am I?
 
-🎓 I hold a **Bachelor's degree in Computer Science / Software Engineering** from *Edith Cowan University*.  
-💼 Currently working as a **Professional Software Engineer**.  
-🌟 Passionate about building clean, scalable applications and continuously learning new technologies.  
-🤝 Always open to meaningful collaboration in open-source or impactful tech projects.  
+🎓 Graduated with a **Bachelor’s in Computer Science / Software Engineering** from *Edith Cowan University*  
+💻 Working as a **Software Engineer**, passionate about clean design and user-centered development  
+🎨 Skilled in **Web Design, Graphic Design**, and **WordPress Development**  
+🖌️ I love **drawing and visual storytelling** — blending creativity with code  
+🌍 Deeply connected to nature — an **Environmental Advocate** in and out of the tech space  
+🛡️ Interested in **Cybersecurity** and ethical digital practices  
+👥 Supportive of **tech talent recruitment** and collaboration  
 
 ---
 
@@ -24,15 +27,12 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+| Design & Frontend | Backend & Logic | Creative & Other Tools |
+|-------------------|------------------|-------------------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) | ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobeillustrator) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) | ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code) |
 
 ---
 
@@ -45,8 +45,20 @@
 
 ---
 
-### ✨ Fun Fact
+### 🌿 A Philosophy of Balance
 
-🧠 I believe in **continuous learning**, **sharing knowledge**, and building a better tech world one line of code at a time.
+> "Technology can shape the future — but **nature** gives it purpose. I strive to develop not just for screens, but for **a better, greener world**."
+
+🧘 I aim for a **balanced life between design, technology, creativity, and environmental awareness**.
 
 ---
+
+### ✨ Fun Facts
+
+- 🖍️ I draw and sketch to clear my mind  
+- 📚 Lifelong learner with a curious mind  
+- 🌎 Nature walks often spark my best project ideas  
+- 🔐 Cybersecurity fascinates me — I believe **safety = creativity**  
+
+---
+
