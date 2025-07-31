@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Environmental+Activist;Software+Enthusiast;Cybersecurity+Advocate;Creative+Recruiter" alt="Typing SVG" />
 </p>
 
-<!-- Particle effect (simple background-like) -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ff/36/07/ff360755f2e909116ab4e2686befd58d.gif" alt="particles" />
-</p>
-
 ---
 
 ### 🌱 Who Am I?
