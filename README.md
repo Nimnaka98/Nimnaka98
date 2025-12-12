@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nimnaka-kumaradasa-07283923a/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram&style=flat-square)](https://www.instagram.com/nimnaka.kumaradasa/)
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nimnaka98&label=Profile%20Visits&color=32CD32&style=flat-square" />
 </p>
 
